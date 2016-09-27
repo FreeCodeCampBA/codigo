@@ -7,6 +7,19 @@ body {
     background-color: #f5f5f5;
 }
 
+.navbar-nav {
+    text-transform: uppercase;
+}
+
+.navbar-default {
+    background-color: #fff;
+}
+
+.nav-logo {
+    margin-top: -10px;
+    height: 40px;
+}
+
 footer {
     background-color: #406661;
     padding: 25px 0 10px 0;
