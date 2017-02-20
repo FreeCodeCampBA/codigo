@@ -1,6 +1,10 @@
-# Código de Conducta
+<h1 align="center">
+  <br>
+    :green_book: Código de Conducta
+  <br>
+</h1>
 
-*tl:dr*: No hostiguemos a la gente. Seamos educados y gentiles. Respetemos al otro.
+### tl;dr No hostiguemos a la gente. Seamos educados y gentiles. Respetemos al otro.
 
 Se requiere que todos los asistentes, sponsors (si los hay), colaboradores y cualquier otra persona que forme parte de Free Code Camp Buenos Aires de alguna manera, cumplan con el siguiente código de conducta. Los organizadores harán regir este código durante todo el evento.
 
@@ -17,11 +21,12 @@ Los participantes a los que se les solicite detener algunas de estas conductas, 
 Si algún participante se ve envuelto en un comportamiento de acoso, los organizadores podrán tomar acciones que crean pertinentes, desde advertencias al ofensor, hasta su expulsión, tanto del encuentro como de la comunidad en todos sus ámbitos.
 
 Si estás siendo víctima de algún tipo de acoso, ves a alguien que lo está o tenés alguna otra duda o problema al respecto, por favor contactate con los  organizadores:
-- Leonardo Galante [@leo_gln](https://twitter.com/leo_gln)
-- Nicolás Quiroz [@_nhsz](https://twitter.com/_nhsz)
-- Ariel Gerstein [@arielger_](https://twitter.com/arielger_)
-- Camilo Rodríguez Blanco [@Camilolwi](https://twitter.com/Camilolwi)
-  
-**Esperamos que todos los participantes estén al tanto, cumplan y hagan cumplir estas reglas.** 
 
-Basado parcialmente en los códigos de [NodeSchool BA](https://github.com/nodeschool/buenosaires/blob/master/codigodeconducta.md) y [LinuxChix Argentina](http://www.linuxchixar.org/sobre-nosotros/codigo-de-conducta/).
+- `Leonardo Galante` (**[@leo_gln](https://twitter.com/leo_gln)**)
+- `Nicolás Quiroz` (**[@_nhsz](https://twitter.com/_nhsz)**)
+- `Ariel Gerstein` (**[@arielger_](https://twitter.com/arielger_)**)
+- `Camilo Rodríguez Blanco` (**[@camilolwi](https://twitter.com/Camilolwi)**)
+  
+**Esperamos que todos los participantes estén al tanto, cumplan y hagan cumplir estas normas.** 
+
+Basado parcialmente en los códigos de **[`NodeSchool BA`](https://github.com/nodeschool/buenosaires/blob/master/codigodeconducta.md)** y **[`LinuxChix Argentina`](http://www.linuxchixar.org/sobre-nosotros/codigo-de-conducta/)**.
