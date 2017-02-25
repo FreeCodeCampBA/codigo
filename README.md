@@ -26,6 +26,7 @@ Si estás siendo víctima de algún tipo de acoso, ves a alguien que lo está o 
 - `Nicolás Quiroz` (**[@_nhsz](https://twitter.com/_nhsz)**)
 - `Ariel Gerstein` (**[@arielger_](https://twitter.com/arielger_)**)
 - `Camilo Rodríguez Blanco` (**[@camilolwi](https://twitter.com/Camilolwi)**)
+- `Azucena Zhou` (**[@AzuZhou](https://twitter.com/AzuZhou)**)
   
 **Esperamos que todos los participantes estén al tanto, cumplan y hagan cumplir estas normas.** 
 
