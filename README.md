@@ -1,8 +1,6 @@
-<h1 align="center">
-  <br>
-    :green_book: Código de Conducta
-  <br>
-</h1>
+# :green_book: Código de Conducta
+
+> Código de Conducta de nuestra comunidad
 
 ### tl;dr No hostiguemos a la gente. Seamos educados y gentiles. Respetemos al otro.
 
