@@ -4,7 +4,7 @@
 
 ### tl;dr No hostiguemos a la gente. Seamos educados y gentiles. Respetemos al otro.
 
-Se requiere que todos los asistentes, sponsors (si los hay), colaboradores y cualquier otra persona que forme parte de **freeCodeCamp Buenos Aires** de alguna manera, cumplan con el siguiente código de conducta. Los organizadores harán regir este código durante todo el evento.
+Se requiere que todos los asistentes, sponsors (si los hay), colaboradores y cualquier otra persona que forme parte de **freeCodeCamp BA** de alguna manera, cumplan con el siguiente código de conducta. Los organizadores harán regir este código durante todo el evento.
 
 Todos los miembros tienen derecho a ser tratados con cortesía, dignidad y respeto y estar libre de cualquier forma de discriminación, victimización, acoso o intimidación; como así también a disfrutar de un ambiente libre de comportamiento no deseado, lenguaje inapropiado e imágenes inadecuadas, independientemente de su sexo, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión.  
 
