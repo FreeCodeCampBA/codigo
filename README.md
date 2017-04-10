@@ -18,13 +18,7 @@ Los participantes a los que se les solicite detener algunas de estas conductas, 
 
 Si algún participante se ve envuelto en un comportamiento de acoso, los organizadores podrán tomar acciones que crean pertinentes, desde advertencias al ofensor, hasta su expulsión, tanto del encuentro como de la comunidad en todos sus ámbitos.
 
-Si estás siendo víctima de algún tipo de acoso, ves a alguien que lo está o tenés alguna otra duda o problema al respecto, por favor contactate con los  organizadores:
-
-- `Leonardo Galante` (**[@leo_gln](https://twitter.com/leo_gln)**)
-- `Nicolás Quiroz` (**[@_nhsz](https://twitter.com/_nhsz)**)
-- `Ariel Gerstein` (**[@arielger_](https://twitter.com/arielger_)**)
-- `Camilo Rodríguez Blanco` (**[@camilolwi](https://twitter.com/Camilolwi)**)
-- `Azucena Zhou` (**[@AzuZhou](https://twitter.com/AzuZhou)**)
+Si estás siendo víctima de algún tipo de acoso, ves a alguien que lo está o tenés alguna otra duda o problema al respecto, por favor contactate con los **[organizadores](https://github.com/FreeCodeCampBA/quick-start#organizadores)**.
   
 **Esperamos que todos los participantes estén al tanto, cumplan y hagan cumplir estas normas.** 
 
