@@ -22,4 +22,4 @@ Si estás siendo víctima de algún tipo de acoso, ves a alguien que lo está o 
   
 **Esperamos que todos los participantes estén al tanto, cumplan y hagan cumplir estas normas.** 
 
-Basado parcialmente en los códigos de **[`NodeSchool BA`](https://github.com/nodeschool/buenosaires/blob/master/codigodeconducta.md)** y **[`LinuxChix Argentina`](http://www.linuxchixar.org/sobre-nosotros/codigo-de-conducta/)**.
+Basado parcialmente en los códigos de **[`NodeSchool BA`](https://github.com/nodeschool/buenosaires/blob/master/codigodeconducta.md)** y **[`LinuxChix Argentina`](http://linuxchixar.org/coc/)**.
