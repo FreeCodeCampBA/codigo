@@ -6,9 +6,9 @@
 
 Se requiere que todos los asistentes, sponsors (si los hay), colaboradores y cualquier otra persona que forme parte de **freeCodeCamp BA** de alguna manera, cumplan con el siguiente código de conducta. Los organizadores harán regir este código durante todo el evento.
 
-Todos los miembros tienen derecho a ser tratados con cortesía, dignidad y respeto y estar libre de cualquier forma de discriminación, victimización, acoso o intimidación; como así también a disfrutar de un ambiente libre de comportamiento no deseado, lenguaje inapropiado e imágenes inadecuadas, independientemente de su sexo, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión.  
+Todos los miembros tienen derecho a ser tratados con cortesía, dignidad y respeto y estar libre de cualquier forma de discriminación, victimización, acoso o intimidación; como así también a disfrutar de un ambiente libre de comportamiento no deseado, lenguaje inapropiado e imágenes inadecuadas, independientemente de su sexo, género, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión.  
 
-No toleramos el acoso de los participantes en ninguna de sus formas. Los participantes que violen estas normas podrán ser sancionados o expulsados del evento según el criterio de los organizadores.
+No toleramos el acoso de los participantes en ninguna de sus formas. Los participantes que violen estas normas podrán ser sancionados o expulsados del evento (o chat) según el criterio de los organizadores.
 
 Contamos con la cooperación de todos para ayudar a garantizar un entorno seguro y confortable.
 
